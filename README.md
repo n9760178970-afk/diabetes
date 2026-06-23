@@ -188,8 +188,5 @@ Diabetes-Prediction/
 
 ## Author
 
-Naven
+Naven Rathour
 
-B.Tech Artificial Intelligence & Machine Learning
-
-COER University
